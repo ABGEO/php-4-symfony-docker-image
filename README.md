@@ -27,6 +27,4 @@ PHP with Apache for Symfony projects
 | `DB_PASSWORD`                       |                      |
 | `DB_NAME`                           |                      |
 | `DB_DRIVER`                         |                      |
-| `APACHE_DOCUMENT_ROOT`              |                      |
-| `APACHE_DOCUMENT_ROOT`              |                      |
-| `APACHE_DOCUMENT_ROOT`              |                      |
+
