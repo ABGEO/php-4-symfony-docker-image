@@ -13,7 +13,7 @@ RUN locale-gen en_US.UTF-8
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y install wget nano lnav git zip unzip sudo
 
 # Install php requirements
-RUN apt-get install -y zlib1g-dev libicu-dev \
+RUN apt-get install -y libzip-dev zlib1g-dev libicu-dev \
     && docker-php-ext-install pdo_mysql intl zip opcache
 
 # Install composer
