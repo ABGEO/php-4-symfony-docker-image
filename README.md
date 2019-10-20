@@ -15,6 +15,7 @@ PHP with Apache for Symfony projects
 * `7.3`
 * `7.2`
 * `7.1`
+* `5.6`
 
 ## Environment Variables
 
