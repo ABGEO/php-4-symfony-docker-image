@@ -1,6 +1,4 @@
-ARG FROM_TAG=7.2-apache
-
-FROM php:${FROM_TAG}
+FROM php:7.3-apache
 
 MAINTAINER Temuri Takalandze(ABGEO) <takalandzet@gmail.com>
 

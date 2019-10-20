@@ -12,10 +12,9 @@ PHP with Apache for Symfony projects
 
 ## Tags
 
-* `latest`
-* `7.3-apache`
-* `7.2-apache`
-* `7.1-apache`
+* `7.3`
+* `7.2`
+* `7.1`
 
 ## Environment Variables
 
